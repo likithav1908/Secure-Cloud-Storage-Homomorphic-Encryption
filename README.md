@@ -101,12 +101,6 @@ http://localhost:8080/SecureCloudData1/
 - Upload files using selected encryption method
 - Request access to files
 - Download and decrypt files
-
----
-
-## 📷 Screenshots (Optional)
-> *(Add screenshots here like login page, upload interface, admin dashboard if available)*
-
 ---
 
 ## 📈 Future Enhancements
